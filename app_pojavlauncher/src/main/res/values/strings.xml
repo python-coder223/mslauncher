@@ -262,7 +262,7 @@
     <string name="xerr_unknown">Noma\'lum Xbox Live API xatosi %d</string>
     <string name="xerr_no_account">Sizda Xbox Live akkaunt yo\'qdek. Iltimos https://minecraft.net/ da bir marta kiring va qayta urinib ko\'ring.</string>
     <string name="xerr_adult_verification">Kattalar akkauntingizni tasdiqlashi kerak.</string>
-    <string name="xerr_child">Akkauntingiz bola akkaunt, kirish uchun Oilaga qo\'shilishi kerak.</string>
+    <string name="xerr_child">Akkaunt kiritilmagan! Akkaunt bor yoki yo\'qligini tekshirib qayta urinib ko\'ring</string>
     <string name="minecraft_not_owned">Bu akkauntda Minecraft profili yo\'qdek. Xbox Game Pass bo\'lsa, https://minecraft.net/ da kiring va sozlang.</string>
     <string name="xerr_not_available">Xbox Live sizning mamlakatda mavjud emas</string>
 
